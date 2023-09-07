@@ -1,6 +1,3 @@
 random text
 random text2
 random text3
-random text 4
-random text 5
-random 6
